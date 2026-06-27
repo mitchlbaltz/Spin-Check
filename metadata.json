@@ -1,0 +1,6 @@
+{
+  "name": "Spin Check",
+  "description": "Analyze political communication and check for spin, persuasion techniques, and missing context in a nonpartisan manner.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
